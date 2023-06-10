@@ -1,17 +1,13 @@
-# UML-Diagrams-Dance-class-management
+# :green_circle:  UML-Diagrams-Dance-class-management
 * Contains **UML Diagrams (Class and Activity Diagrams)** created with **draw.io** for **Dance class management project**.
 * Created for the Software Engineering Internal Presentation
 
-<hr/>
+## > Information
+
+<b>Software</b> draw.io
 
 
-<b>Software used:</b> draw.io
+<b>Date created</b> March 2021
 
+## > Download and open in draw.io :
 
-<b>Created (date) :</b> March 2021
-
-
-<b>Created in :</b> S.Y. B.Sc (SEM IV)
-
-
-<b>Created for :</b> Software Engineering Internal Presentation
